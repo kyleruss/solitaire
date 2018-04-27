@@ -4,6 +4,9 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)](https://forthebadge.com)
 
+A Java implementation of the classic Solitaire game  
+This project was developed in 2014 
+
 ### Requirements
 - JRE 1.8+ (Running only)
 - JDK 1.8+ (Running & Compiling)

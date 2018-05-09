@@ -1,6 +1,6 @@
 # Solitaire
 
-<img src="preivew/Screenshot.png" />
+<img src="preview/Screenshot.png" />
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)](https://forthebadge.com)
 
